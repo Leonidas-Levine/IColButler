@@ -98,7 +98,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <xi:include href="http://dev.stg.brown.edu/projects/usepigraphy/xml/include_taxonomies.xml">
+         <xi:include href="http://cds.library.brown.edu/projects/usepigraphy/xml-templates/include_taxonomies.xml">
             <xi:fallback>
                <p>Taxonomies for US Epigraphy controlled values</p>
             </xi:fallback>
